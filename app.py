@@ -28,7 +28,7 @@ PAGE = """
         }
 
         .clock-card {
-            width: 90%;
+            width: 80%;
             max-width: 750px;
             padding: 55px 30px;
             text-align: center;
