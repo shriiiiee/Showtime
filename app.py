@@ -63,7 +63,7 @@ PAGE = """
 
         .footer {
             margin-top: 35px;
-            color: #8a5a20;
+            color: #333333;
             font-size: 14px;
         }
     </style>
